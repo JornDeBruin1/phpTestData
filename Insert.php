@@ -12,11 +12,11 @@
         ini_set('display_errors', 'On');
         error_reporting(E_ALL);
 
-        $host     = 'gc-webhosting.nl:2083';
+        $host     = 'https://net24jbruin.gc-webhosting.nl/';
         $db       = 'net24jbruin_phpTest';
         $user     = 'net24jbruin_Jorn';
         $password = '6O=xp0Le&2*4';
-        $port = '2083';
+        $port     = '2083';
         $charset  = 'utf8mb4';
           
         mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
