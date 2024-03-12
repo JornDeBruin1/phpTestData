@@ -12,7 +12,7 @@
         ini_set('display_errors', 'On');
         error_reporting(E_ALL);
 
-        $host     = 'https://gc-webhosting.nl/';
+        $host     = 'gc-webhosting.nl';
         $db       = 'net24jbruin_phpTest';
         $user     = 'net24jbruin_Jorn';
         $password = '6O=xp0Le&2*4';
